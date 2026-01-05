@@ -12,9 +12,7 @@ Me chamo Graziela Dilany da Silva, tenho 19 anos, sou de Mogi Guaçu-SP, atualme
 ##
 
 <div align="left">
-  <a href="www.linkedin.com/in/graziela-dilany-da-silva-8bb203307" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/graziela-dilany-da-silva-8bb203307" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="dilany_130_24499" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
