@@ -4,7 +4,7 @@
 
 ###
 
-**`Desenvolvedora de Softwares`**
+**`Desenvolvedora de Softwares Junior`**
 
 Me chamo Graziela Dilany da Silva, tenho 19 anos, sou de Mogi Guaçu-SP, atualmente curso Desenvolvimento de Software Multiplataformas na Fatec Ogari de Castro Pacheco, concluí o ensino medio na ETEC Euro Albino de Souza, gosto muito de área da tecnologia e sempre quero aprender cada vez mais.
 
