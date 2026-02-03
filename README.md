@@ -29,6 +29,7 @@ Me chamo Graziela Dilany da Silva, tenho 19 anos, sou de Mogi Guaçu-SP, atualme
 <p align="left">🔘https://graziela2705.github.io/Meu-Portfolio/</p>
 <p align="left">🔘https://github.com/Graziela2705/Dashboard-Analize-Dados</p>
 <p align="left">🔘https://github.com/Samara-Stefani/Projeto_Pi2</p>
+
 ###
 
 🤖 Linguagens e Tecnologias
