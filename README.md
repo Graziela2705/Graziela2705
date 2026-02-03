@@ -21,6 +21,14 @@ Me chamo Graziela Dilany da Silva, tenho 19 anos, sou de Mogi Guaçu-SP, atualme
 
 ###
 
+<h2 align="left">✨Meu Principais Projetos</h2>
+
+###
+
+<p align="left">🔘https://github.com/Graziela2705/compassTCC</p>
+
+###
+
 🤖 Linguagens e Tecnologias
 
 <div align="left">
