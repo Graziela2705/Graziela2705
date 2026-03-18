@@ -7,7 +7,7 @@
 **`Desenvolvedora de Softwares Junior`**
 **`Design Gráfico🎨`**
 
-Me chamo Graziela Dilany da Silva, sou de Mogi Guaçu-SP, atualmente curso Desenvolvimento de Software Multiplataformas na Fatec Ogari de Castro Pacheco, concluí o ensino medio na ETEC Euro Albino de Souza, gosto muito de área da tecnologia e sempre quero aprender cada vez mais.
+Me chamo Graziela Dilany da Silva, sou de Mogi Guaçu-SP, atualmente curso Desenvolvimento de Software Multiplataformas na Fatec Ogari de Castro Pacheco, concluí o ensino medio e técnico em Desenvolvimento de Sistemas na ETEC Euro Albino de Souza, gosto muito de área da tecnologia e sempre quero aprender cada vez mais.
 
 
 ##
